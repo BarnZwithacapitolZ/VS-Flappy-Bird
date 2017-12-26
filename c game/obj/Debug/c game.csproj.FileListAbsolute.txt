@@ -1,0 +1,79 @@
+F:\c game\c game\bin\Debug\c game.exe.config
+F:\c game\c game\bin\Debug\c game.exe
+F:\c game\c game\bin\Debug\c game.pdb
+F:\c game\c game\obj\Debug\c game.csprojResolveAssemblyReference.cache
+F:\c game\c game\obj\Debug\c_game.Form1.resources
+F:\c game\c game\obj\Debug\c_game.Properties.Resources.resources
+F:\c game\c game\obj\Debug\c game.csproj.GenerateResource.Cache
+F:\c game\c game\obj\Debug\c game.exe
+F:\c game\c game\obj\Debug\c game.pdb
+D:\c game\c game\bin\Debug\c game.exe.config
+D:\c game\c game\bin\Debug\c game.exe
+D:\c game\c game\bin\Debug\c game.pdb
+D:\c game\c game\obj\Debug\c game.csprojResolveAssemblyReference.cache
+D:\c game\c game\obj\Debug\c_game.Form1.resources
+D:\c game\c game\obj\Debug\c_game.Properties.Resources.resources
+D:\c game\c game\obj\Debug\c game.csproj.GenerateResource.Cache
+D:\c game\c game\obj\Debug\c game.exe
+D:\c game\c game\obj\Debug\c game.pdb
+E:\c game\c game\bin\Debug\c game.exe.config
+E:\c game\c game\bin\Debug\c game.exe
+E:\c game\c game\bin\Debug\c game.pdb
+E:\c game\c game\obj\Debug\c game.csprojResolveAssemblyReference.cache
+E:\c game\c game\obj\Debug\c_game.Form1.resources
+E:\c game\c game\obj\Debug\c_game.Properties.Resources.resources
+E:\c game\c game\obj\Debug\c game.csproj.GenerateResource.Cache
+E:\c game\c game\obj\Debug\c game.exe
+E:\c game\c game\obj\Debug\c game.pdb
+F:\c game\c game\bin\Debug\Interop.WMPLib.dll
+F:\c game\c game\bin\Debug\AxInterop.WMPLib.dll
+F:\c game\c game\obj\Debug\Interop.WMPLib.dll
+F:\c game\c game\obj\Debug\AxInterop.WMPLib.dll
+F:\c game\c game\obj\Debug\c game.csproj.ResolveComReference.cache
+D:\c game\c game\bin\Debug\Interop.WMPLib.dll
+D:\c game\c game\bin\Debug\AxInterop.WMPLib.dll
+D:\c game\c game\obj\Debug\Interop.WMPLib.dll
+D:\c game\c game\obj\Debug\AxInterop.WMPLib.dll
+D:\c game\c game\obj\Debug\c game.csproj.ResolveComReference.cache
+D:\Flappy Bird\c game\bin\Debug\c game.exe.config
+D:\Flappy Bird\c game\bin\Debug\c game.exe
+D:\Flappy Bird\c game\bin\Debug\c game.pdb
+D:\Flappy Bird\c game\bin\Debug\Interop.WMPLib.dll
+D:\Flappy Bird\c game\bin\Debug\AxInterop.WMPLib.dll
+D:\Flappy Bird\c game\obj\Debug\c game.csprojResolveAssemblyReference.cache
+D:\Flappy Bird\c game\obj\Debug\Interop.WMPLib.dll
+D:\Flappy Bird\c game\obj\Debug\AxInterop.WMPLib.dll
+D:\Flappy Bird\c game\obj\Debug\c game.csproj.ResolveComReference.cache
+D:\Flappy Bird\c game\obj\Debug\c_game.Form1.resources
+D:\Flappy Bird\c game\obj\Debug\c_game.Properties.Resources.resources
+D:\Flappy Bird\c game\obj\Debug\c game.csproj.GenerateResource.Cache
+D:\Flappy Bird\c game\obj\Debug\c game.exe
+D:\Flappy Bird\c game\obj\Debug\c game.pdb
+F:\Flappy Bird\c game\bin\Debug\c game.exe.config
+F:\Flappy Bird\c game\bin\Debug\c game.exe
+F:\Flappy Bird\c game\bin\Debug\c game.pdb
+F:\Flappy Bird\c game\bin\Debug\Interop.WMPLib.dll
+F:\Flappy Bird\c game\bin\Debug\AxInterop.WMPLib.dll
+F:\Flappy Bird\c game\obj\Debug\c game.csprojResolveAssemblyReference.cache
+F:\Flappy Bird\c game\obj\Debug\Interop.WMPLib.dll
+F:\Flappy Bird\c game\obj\Debug\AxInterop.WMPLib.dll
+F:\Flappy Bird\c game\obj\Debug\c game.csproj.ResolveComReference.cache
+F:\Flappy Bird\c game\obj\Debug\c_game.Form1.resources
+F:\Flappy Bird\c game\obj\Debug\c_game.Properties.Resources.resources
+F:\Flappy Bird\c game\obj\Debug\c game.csproj.GenerateResource.Cache
+F:\Flappy Bird\c game\obj\Debug\c game.exe
+F:\Flappy Bird\c game\obj\Debug\c game.pdb
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\bin\Debug\c game.exe.config
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\bin\Debug\c game.exe
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\bin\Debug\c game.pdb
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\bin\Debug\Interop.WMPLib.dll
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\obj\Debug\c game.csprojResolveAssemblyReference.cache
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\obj\Debug\Interop.WMPLib.dll
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\obj\Debug\c game.csproj.ResolveComReference.cache
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\obj\Debug\c_game.Form1.resources
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\obj\Debug\c_game.Properties.Resources.resources
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\obj\Debug\c game.csproj.GenerateResource.Cache
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\obj\Debug\c game.exe
+C:\Users\barne\Documents\mods\github\VS-Flappy-Bird\c game\obj\Debug\c game.pdb
