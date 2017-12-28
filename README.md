@@ -6,3 +6,5 @@ I got bored in College so made a Flappy Bird clone in one of my lessons. This wa
 JK
 
 The absence of Classes makes the code hard to build upon and inefficient. The pipe generation algorithm turned out pretty good tho!
+
+I added the bin/debug folder so you can run the executable through there, if you dont wont to load vs.
