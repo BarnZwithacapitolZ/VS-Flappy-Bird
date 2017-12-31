@@ -1,10 +1,21 @@
 # VS-Flappy-Bird
-Flappy Bird in Visual Studio!
+### A Flappy Bird clone made in Visual C#, under the .NET Framework 4.5.2; Console Application 
 
-I got bored in College so made a Flappy Bird clone in one of my lessons. This was initially a platformer, however I changed the code into Flappy Bird as platformers are boring.
+This was made during a College Lesson in around 30 mins. 
 
-JK
+All assets used were taken directly from the Internet:
 
-The absence of Classes makes the code hard to build upon and inefficient. The pipe generation algorithm turned out pretty good tho!
+  [Sounds](https://www.sounds-resource.com/mobile/flappybird/sound/5309/)
+  
+  [Pipe](http://pixelart.studio/Gallery/Image/0f1aaa16-7b6f-4096-ac72-76c436ae0f6c?type=png)
+  
+  [Bird](https://i-cdn.phonearena.com/images/article/52185-image/Catch-the-pigeon-Here-are-the-best-and-worst-Flappy-Bird-clones.jpg)
+  
+  [Floor](http://flappycreator.com/default/ground.png)
 
-I added the bin/debug folder so you can run the executable through there, if you dont wont to load vs.
+# Play
+Run through Visual Studio by launching "c game.sln".
+
+Run the Executable through the Bin/Debug Folder ("c game.exe").
+ 
+
