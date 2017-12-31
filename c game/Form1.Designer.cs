@@ -78,9 +78,9 @@
             this.labelTitle.Font = new System.Drawing.Font("Microsoft YaHei UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTitle.Location = new System.Drawing.Point(153, 127);
             this.labelTitle.Name = "labelTitle";
-            this.labelTitle.Size = new System.Drawing.Size(286, 62);
+            this.labelTitle.Size = new System.Drawing.Size(247, 62);
             this.labelTitle.TabIndex = 2;
-            this.labelTitle.Text = "Flappy Bird";
+            this.labelTitle.Text = "Fatty Bird";
             // 
             // buttonPlay
             // 
