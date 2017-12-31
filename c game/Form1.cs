@@ -26,7 +26,7 @@ namespace c_game
         //pipe global variables
         int highScore = 0;
         int score = 0;       
-        int gap = 190; //190
+        int gap = 220; //190
         int PipeMinHeight = 150;
         int gapLocation;
         int numPipes = 0;
@@ -88,13 +88,13 @@ namespace c_game
                 if (bottomPipes.ContainsKey(x)) { Controls.Remove(bottomPipes[x]); bottomPipes.Remove(x); }
                 if (gaps.ContainsKey(x)) { Controls.Remove(gaps[x]); gaps.Remove(x); }                   
             }
-            pos[0] = 273;
-            pos[1] = 263;
+            pos[0] = 249; //reset initial position
+            pos[1] = 221;
             vel[1] = 0;
             Player.Location = new Point(Convert.ToInt32(pos[0]), Convert.ToInt32(pos[1])); // reset player to initial position
             buttonPlay.Enabled = buttonPlay.Visible = labelTitle.Visible = LabelHighScore.Visible = labelControls.Visible = true;
             labelScore.Text = "Score: " + score;
-            LabelHighScore.Text = "Highest Score: " + highScore / 72;
+            LabelHighScore.Text = "Highest Score: " + highScore / 97;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -108,7 +108,7 @@ namespace c_game
 
         private void Clock_Tick(object sender, EventArgs e)
         {
-            acc[1] = 0.45; // 0.45
+            acc[1] = 1.45; // 0.45
             vel[1] += acc[1];
             pos[1] += (vel[1] + 0.55 * acc[1]);
 
@@ -124,8 +124,8 @@ namespace c_game
                         if (Player.Bounds.IntersectsWith(gaps[x].Bounds))
                         {
                             score += 1;
-                            labelScore.Text = "Score: " + (score / 72).ToString(); //72
-                            if (score % 72 == 0) { Music.Ctlcontrols.play(); }         
+                            labelScore.Text = "Score: " + (score / 97).ToString(); 
+                            if (score % 97 == 0) { Music.Ctlcontrols.play(); } // Only when at the end of pipe
                         }
                     }        
                 }

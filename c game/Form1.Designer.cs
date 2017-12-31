@@ -76,7 +76,7 @@
             this.labelTitle.AutoSize = true;
             this.labelTitle.BackColor = System.Drawing.Color.Transparent;
             this.labelTitle.Font = new System.Drawing.Font("Microsoft YaHei UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelTitle.Location = new System.Drawing.Point(153, 127);
+            this.labelTitle.Location = new System.Drawing.Point(180, 128);
             this.labelTitle.Name = "labelTitle";
             this.labelTitle.Size = new System.Drawing.Size(247, 62);
             this.labelTitle.TabIndex = 2;
@@ -140,9 +140,9 @@
             this.Player.BackColor = System.Drawing.Color.Transparent;
             this.Player.BackgroundImage = global::c_game.Properties.Resources.piq_166547_400x4001;
             this.Player.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.Player.Location = new System.Drawing.Point(273, 263);
+            this.Player.Location = new System.Drawing.Point(249, 221);
             this.Player.Name = "Player";
-            this.Player.Size = new System.Drawing.Size(50, 50);
+            this.Player.Size = new System.Drawing.Size(100, 100);
             this.Player.TabIndex = 0;
             this.Player.TabStop = false;
             // 
@@ -183,7 +183,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "Flappy Bird";
+            this.Text = "Fatty Bird";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.Music)).EndInit();
