@@ -63,9 +63,9 @@ namespace c_game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _725e5dc00ba49c240cd489e7b87e0496 {
+        internal static System.Drawing.Bitmap background {
             get {
-                object obj = ResourceManager.GetObject("725e5dc00ba49c240cd489e7b87e0496", resourceCulture);
+                object obj = ResourceManager.GetObject("background", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace c_game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _725e5dc00ba49c240cd489e7b87e04961 {
+        internal static System.Drawing.Bitmap brightBackground {
             get {
-                object obj = ResourceManager.GetObject("725e5dc00ba49c240cd489e7b87e04961", resourceCulture);
+                object obj = ResourceManager.GetObject("brightBackground", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace c_game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap DGbnIA5__1_ {
+        internal static System.Drawing.Bitmap bush {
             get {
-                object obj = ResourceManager.GetObject("DGbnIA5 (1)", resourceCulture);
+                object obj = ResourceManager.GetObject("bush", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace c_game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap download__10_ {
+        internal static System.Drawing.Bitmap busher {
             get {
-                object obj = ResourceManager.GetObject("download (10)", resourceCulture);
+                object obj = ResourceManager.GetObject("busher", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace c_game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap download__2_ {
+        internal static System.Drawing.Bitmap cityBackground {
             get {
-                object obj = ResourceManager.GetObject("download (2)", resourceCulture);
+                object obj = ResourceManager.GetObject("cityBackground", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,19 @@ namespace c_game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap download__2_1 {
+        internal static System.Drawing.Bitmap floor {
             get {
-                object obj = ResourceManager.GetObject("download (2)1", resourceCulture);
+                object obj = ResourceManager.GetObject("floor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap floorShort {
+            get {
+                object obj = ResourceManager.GetObject("floorShort", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -126,6 +136,16 @@ namespace c_game.Properties {
         internal static System.Drawing.Bitmap Green_Warp_Pipe_NSMBU {
             get {
                 object obj = ResourceManager.GetObject("Green_Warp_Pipe_NSMBU", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap k {
+            get {
+                object obj = ResourceManager.GetObject("k", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -146,26 +166,6 @@ namespace c_game.Properties {
         internal static System.Drawing.Bitmap piq_166547_400x4001 {
             get {
                 object obj = ResourceManager.GetObject("piq_166547_400x4001", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Untitled_2_fw {
-            get {
-                object obj = ResourceManager.GetObject("Untitled-2.fw", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Untitled_21 {
-            get {
-                object obj = ResourceManager.GetObject("Untitled-21", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

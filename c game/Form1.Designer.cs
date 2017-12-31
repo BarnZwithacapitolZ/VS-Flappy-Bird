@@ -128,7 +128,7 @@
             // 
             // ptcBottom
             // 
-            this.ptcBottom.BackgroundImage = global::c_game.Properties.Resources.download__2_;
+            this.ptcBottom.BackgroundImage = global::c_game.Properties.Resources.floorShort;
             this.ptcBottom.Location = new System.Drawing.Point(-6, 658);
             this.ptcBottom.Name = "ptcBottom";
             this.ptcBottom.Size = new System.Drawing.Size(1508, 105);
@@ -180,6 +180,7 @@
             this.Controls.Add(this.labelTitle);
             this.Controls.Add(this.labelScore);
             this.Controls.Add(this.Player);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
